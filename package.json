@@ -24,7 +24,7 @@
     "babel-loader": "^7.1.5",
     "babel-preset-es2015": "^6.24.1",
     "webpack": "^4.41.4",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "connect": "^3.7.0",
